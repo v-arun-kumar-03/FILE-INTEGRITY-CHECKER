@@ -10,12 +10,17 @@
 
 *DURATION*: 6-WEEKS
 
-##This program is a simple file integrity checker written in Python and run using the IDLE tool.
+##THIS PROGRAM IS A SIMPLE FILE INTEGRITY CHECKER WRITTEN IN PYTHON AND RUN USING THE IDLE TOOL.
 
-It works by creating a unique fingerprint (hash) for a file when you add it. Later, when you check the file, the program generates a new fingerprint and compares it with the old one. If both match, the file is unchanged. If they differ, the file has been modified. If the file is missing, it reports that the file is deleted.
+IT WORKS BY CREATING A UNIQUE FINGERPRINT (HASH) FOR A FILE WHEN YOU ADD IT. LATER, WHEN YOU CHECK THE FILE, THE PROGRAM GENERATES A NEW FINGERPRINT AND COMPARES IT WITH THE OLD ONE. IF BOTH MATCH, THE FILE IS UNCHANGED. IF THEY DIFFER, THE FILE HAS BEEN MODIFIED. IF THE FILE IS MISSING, IT REPORTS THAT THE FILE IS DELETED.
 
-You can check a single file or all files at once. It also has a monitoring mode that automatically checks files every few seconds.
+YOU CAN CHECK A SINGLE FILE OR ALL FILES AT ONCE. IT ALSO HAS A MONITORING MODE THAT AUTOMATICALLY CHECKS FILES EVERY FEW SECONDS.
 
-The program stores file details and logs all actions like file changes or deletions, so you can review them later.
+THE PROGRAM STORES FILE DETAILS AND LOGS ALL ACTIONS LIKE FILE CHANGES OR DELETIONS, SO YOU CAN REVIEW THEM LATER.
 
-In short, it is a basic tool built and tested in IDLE to monitor files and detect any changes.
+IN SHORT, IT IS A BASIC TOOL BUILT AND TESTED IN IDLE TO MONITOR FILES AND DETECT ANY CHANGES.
+
+
+##OUTPUT
+
+
