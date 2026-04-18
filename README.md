@@ -23,4 +23,6 @@ IN SHORT, IT IS A BASIC TOOL BUILT AND TESTED IN IDLE TO MONITOR FILES AND DETEC
 
 ##OUTPUT
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d3ede218-966c-4dc0-8574-93ef90d6d012" />
+
 
